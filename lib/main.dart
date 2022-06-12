@@ -19,7 +19,7 @@ class xylophone extends StatelessWidget {
           onPressed: () {
             playSound(soundNumber!);
           },
-          child: Text('')),
+          child: Text('s')),
     );
   }
 
